@@ -1,0 +1,17 @@
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\ConverterNumeros\bin\Debug\net6.0-windows\ConverterNumeros.exe
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\ConverterNumeros\bin\Debug\net6.0-windows\ConverterNumeros.deps.json
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\ConverterNumeros\bin\Debug\net6.0-windows\ConverterNumeros.runtimeconfig.json
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\ConverterNumeros\bin\Debug\net6.0-windows\ConverterNumeros.dll
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\ConverterNumeros\bin\Debug\net6.0-windows\ConverterNumeros.pdb
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\ConverterNumeros\obj\Debug\net6.0-windows\ConverterNumeros.csproj.AssemblyReference.cache
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\ConverterNumeros\obj\Debug\net6.0-windows\ConverterNumeros.Form1.resources
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\ConverterNumeros\obj\Debug\net6.0-windows\ConverterNumeros.csproj.GenerateResource.cache
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\ConverterNumeros\obj\Debug\net6.0-windows\ConverterNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\ConverterNumeros\obj\Debug\net6.0-windows\ConverterNumeros.AssemblyInfoInputs.cache
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\ConverterNumeros\obj\Debug\net6.0-windows\ConverterNumeros.AssemblyInfo.cs
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\ConverterNumeros\obj\Debug\net6.0-windows\ConverterNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\ConverterNumeros\obj\Debug\net6.0-windows\ConverterNumeros.dll
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\ConverterNumeros\obj\Debug\net6.0-windows\refint\ConverterNumeros.dll
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\ConverterNumeros\obj\Debug\net6.0-windows\ConverterNumeros.pdb
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\ConverterNumeros\obj\Debug\net6.0-windows\ConverterNumeros.genruntimeconfig.cache
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\ConverterNumeros\obj\Debug\net6.0-windows\ref\ConverterNumeros.dll

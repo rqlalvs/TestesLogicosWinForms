@@ -1,0 +1,17 @@
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\Temperaturas\bin\Debug\net6.0-windows\Temperaturas.exe
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\Temperaturas\bin\Debug\net6.0-windows\Temperaturas.deps.json
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\Temperaturas\bin\Debug\net6.0-windows\Temperaturas.runtimeconfig.json
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\Temperaturas\bin\Debug\net6.0-windows\Temperaturas.dll
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\Temperaturas\bin\Debug\net6.0-windows\Temperaturas.pdb
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\Temperaturas\obj\Debug\net6.0-windows\Temperaturas.csproj.AssemblyReference.cache
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\Temperaturas\obj\Debug\net6.0-windows\Temperaturas.Form1.resources
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\Temperaturas\obj\Debug\net6.0-windows\Temperaturas.csproj.GenerateResource.cache
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\Temperaturas\obj\Debug\net6.0-windows\Temperaturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\Temperaturas\obj\Debug\net6.0-windows\Temperaturas.AssemblyInfoInputs.cache
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\Temperaturas\obj\Debug\net6.0-windows\Temperaturas.AssemblyInfo.cs
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\Temperaturas\obj\Debug\net6.0-windows\Temperaturas.csproj.CoreCompileInputs.cache
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\Temperaturas\obj\Debug\net6.0-windows\Temperaturas.dll
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\Temperaturas\obj\Debug\net6.0-windows\refint\Temperaturas.dll
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\Temperaturas\obj\Debug\net6.0-windows\Temperaturas.pdb
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\Temperaturas\obj\Debug\net6.0-windows\Temperaturas.genruntimeconfig.cache
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\Temperaturas\obj\Debug\net6.0-windows\ref\Temperaturas.dll

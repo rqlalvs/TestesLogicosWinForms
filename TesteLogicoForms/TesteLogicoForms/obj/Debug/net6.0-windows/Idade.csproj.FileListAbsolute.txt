@@ -1,0 +1,17 @@
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\TesteLogicoForms\bin\Debug\net6.0-windows\Idade.exe
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\TesteLogicoForms\bin\Debug\net6.0-windows\Idade.deps.json
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\TesteLogicoForms\bin\Debug\net6.0-windows\Idade.runtimeconfig.json
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\TesteLogicoForms\bin\Debug\net6.0-windows\Idade.dll
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\TesteLogicoForms\bin\Debug\net6.0-windows\Idade.pdb
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\TesteLogicoForms\obj\Debug\net6.0-windows\Idade.csproj.AssemblyReference.cache
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\TesteLogicoForms\obj\Debug\net6.0-windows\TesteLogicoForms.Form1.resources
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\TesteLogicoForms\obj\Debug\net6.0-windows\Idade.csproj.GenerateResource.cache
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\TesteLogicoForms\obj\Debug\net6.0-windows\Idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\TesteLogicoForms\obj\Debug\net6.0-windows\Idade.AssemblyInfoInputs.cache
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\TesteLogicoForms\obj\Debug\net6.0-windows\Idade.AssemblyInfo.cs
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\TesteLogicoForms\obj\Debug\net6.0-windows\Idade.csproj.CoreCompileInputs.cache
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\TesteLogicoForms\obj\Debug\net6.0-windows\Idade.dll
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\TesteLogicoForms\obj\Debug\net6.0-windows\refint\Idade.dll
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\TesteLogicoForms\obj\Debug\net6.0-windows\Idade.pdb
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\TesteLogicoForms\obj\Debug\net6.0-windows\Idade.genruntimeconfig.cache
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\TesteLogicoForms\obj\Debug\net6.0-windows\ref\Idade.dll

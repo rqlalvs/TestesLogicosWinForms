@@ -1,0 +1,17 @@
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\ImparPar\bin\Debug\net6.0-windows\ImparPar.exe
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\ImparPar\bin\Debug\net6.0-windows\ImparPar.deps.json
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\ImparPar\bin\Debug\net6.0-windows\ImparPar.runtimeconfig.json
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\ImparPar\bin\Debug\net6.0-windows\ImparPar.dll
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\ImparPar\bin\Debug\net6.0-windows\ImparPar.pdb
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\ImparPar\obj\Debug\net6.0-windows\ImparPar.csproj.AssemblyReference.cache
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\ImparPar\obj\Debug\net6.0-windows\ImparPar.Form1.resources
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\ImparPar\obj\Debug\net6.0-windows\ImparPar.csproj.GenerateResource.cache
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\ImparPar\obj\Debug\net6.0-windows\ImparPar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\ImparPar\obj\Debug\net6.0-windows\ImparPar.AssemblyInfoInputs.cache
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\ImparPar\obj\Debug\net6.0-windows\ImparPar.AssemblyInfo.cs
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\ImparPar\obj\Debug\net6.0-windows\ImparPar.csproj.CoreCompileInputs.cache
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\ImparPar\obj\Debug\net6.0-windows\ImparPar.dll
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\ImparPar\obj\Debug\net6.0-windows\refint\ImparPar.dll
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\ImparPar\obj\Debug\net6.0-windows\ImparPar.pdb
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\ImparPar\obj\Debug\net6.0-windows\ImparPar.genruntimeconfig.cache
+C:\Users\Raquel-PC\Desktop\TestesLogicosWinForms\TesteLogicoForms\ImparPar\obj\Debug\net6.0-windows\ref\ImparPar.dll

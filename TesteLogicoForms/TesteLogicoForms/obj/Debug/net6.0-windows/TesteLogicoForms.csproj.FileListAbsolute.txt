@@ -1,0 +1,17 @@
+C:\Users\Raquel-PC\Desktop\teste\TesteLogicoForms\TesteLogicoForms\bin\Debug\net6.0-windows\TesteLogicoForms.exe
+C:\Users\Raquel-PC\Desktop\teste\TesteLogicoForms\TesteLogicoForms\bin\Debug\net6.0-windows\TesteLogicoForms.deps.json
+C:\Users\Raquel-PC\Desktop\teste\TesteLogicoForms\TesteLogicoForms\bin\Debug\net6.0-windows\TesteLogicoForms.runtimeconfig.json
+C:\Users\Raquel-PC\Desktop\teste\TesteLogicoForms\TesteLogicoForms\bin\Debug\net6.0-windows\TesteLogicoForms.dll
+C:\Users\Raquel-PC\Desktop\teste\TesteLogicoForms\TesteLogicoForms\bin\Debug\net6.0-windows\TesteLogicoForms.pdb
+C:\Users\Raquel-PC\Desktop\teste\TesteLogicoForms\TesteLogicoForms\obj\Debug\net6.0-windows\TesteLogicoForms.csproj.AssemblyReference.cache
+C:\Users\Raquel-PC\Desktop\teste\TesteLogicoForms\TesteLogicoForms\obj\Debug\net6.0-windows\TesteLogicoForms.Form1.resources
+C:\Users\Raquel-PC\Desktop\teste\TesteLogicoForms\TesteLogicoForms\obj\Debug\net6.0-windows\TesteLogicoForms.csproj.GenerateResource.cache
+C:\Users\Raquel-PC\Desktop\teste\TesteLogicoForms\TesteLogicoForms\obj\Debug\net6.0-windows\TesteLogicoForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raquel-PC\Desktop\teste\TesteLogicoForms\TesteLogicoForms\obj\Debug\net6.0-windows\TesteLogicoForms.AssemblyInfoInputs.cache
+C:\Users\Raquel-PC\Desktop\teste\TesteLogicoForms\TesteLogicoForms\obj\Debug\net6.0-windows\TesteLogicoForms.AssemblyInfo.cs
+C:\Users\Raquel-PC\Desktop\teste\TesteLogicoForms\TesteLogicoForms\obj\Debug\net6.0-windows\TesteLogicoForms.csproj.CoreCompileInputs.cache
+C:\Users\Raquel-PC\Desktop\teste\TesteLogicoForms\TesteLogicoForms\obj\Debug\net6.0-windows\TesteLogicoForms.dll
+C:\Users\Raquel-PC\Desktop\teste\TesteLogicoForms\TesteLogicoForms\obj\Debug\net6.0-windows\refint\TesteLogicoForms.dll
+C:\Users\Raquel-PC\Desktop\teste\TesteLogicoForms\TesteLogicoForms\obj\Debug\net6.0-windows\TesteLogicoForms.pdb
+C:\Users\Raquel-PC\Desktop\teste\TesteLogicoForms\TesteLogicoForms\obj\Debug\net6.0-windows\TesteLogicoForms.genruntimeconfig.cache
+C:\Users\Raquel-PC\Desktop\teste\TesteLogicoForms\TesteLogicoForms\obj\Debug\net6.0-windows\ref\TesteLogicoForms.dll
